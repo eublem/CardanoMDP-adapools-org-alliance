@@ -234,6 +234,11 @@
                "pool_id": "8fa4537044c02b232430dca78f51ca74c22d1ed7fb990be8b65d2794",
                "member_since": "2021-02-04",
                "name": "[WHITE] The White Project"
+        },
+            "42": {    
+               "pool_id": "611f85c8ed3b5ccd926fb9b600ab66d8b17c99641059a0f237c4697f",
+               "member_since": "2021-02-14",
+               "name": "[PURPL] Purpool"
         }
     }
 }}
